@@ -20,7 +20,7 @@ export default function DefaultLayout({
           href="https://github.com/Hauser"
           title="GitHub Profile"
         > */}
-          <span className="text-default-600">© 2024 Thomas Hauser</span>
+          <span className="text-default-600">© 2025 Thomas Hauser</span>
         {/* </Link> */}
       </footer>
     </div>
